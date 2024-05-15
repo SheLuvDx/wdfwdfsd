@@ -1,0 +1,536 @@
+Uri: https://fonts.gstatic.com/s/lexend/v19/wlptgwvFAVdoq2_F94zlCfv0bz1WC-UR_LM.woff
+File Name: C:\Downloaded Web Sites\www.braflix.video\s\lexend\v19\wlptgwvFAVdoq2_F94zlCfv0bz1WC-UR_LM.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/lexend/v19/wlptgwvFAVdoq2_F94zlCfv0bz1WC2UW_LM.woff
+File Name: C:\Downloaded Web Sites\www.braflix.video\s\lexend\v19\wlptgwvFAVdoq2_F94zlCfv0bz1WC2UW_LM.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/lexend/v19/wlptgwvFAVdoq2_F94zlCfv0bz1WC7sR_LM.woff
+File Name: C:\Downloaded Web Sites\www.braflix.video\s\lexend\v19\wlptgwvFAVdoq2_F94zlCfv0bz1WC7sR_LM.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/lexend/v19/wlptgwvFAVdoq2_F94zlCfv0bz1WC9wR_LM.woff
+File Name: C:\Downloaded Web Sites\www.braflix.video\s\lexend\v19\wlptgwvFAVdoq2_F94zlCfv0bz1WC9wR_LM.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/lexend/v19/wlptgwvFAVdoq2_F94zlCfv0bz1WCwkW_LM.woff
+File Name: C:\Downloaded Web Sites\www.braflix.video\s\lexend\v19\wlptgwvFAVdoq2_F94zlCfv0bz1WCwkW_LM.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/lexend/v19/wlptgwvFAVdoq2_F94zlCfv0bz1WCzsW_LM.woff
+File Name: C:\Downloaded Web Sites\www.braflix.video\s\lexend\v19\wlptgwvFAVdoq2_F94zlCfv0bz1WCzsW_LM.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/lexend/v19/wlpwgwvFAVdoq2_v-6QU82RHaA.woff2
+File Name: C:\Downloaded Web Sites\www.braflix.video\s\lexend\v19\wlpwgwvFAVdoq2_v-6QU82RHaA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lexend/v19/wlpwgwvFAVdoq2_v9aQU82RHaBBX.woff2
+File Name: C:\Downloaded Web Sites\www.braflix.video\s\lexend\v19\wlpwgwvFAVdoq2_v9aQU82RHaBBX.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lexend/v19/wlpwgwvFAVdoq2_v9KQU82RHaBBX.woff2
+File Name: C:\Downloaded Web Sites\www.braflix.video\s\lexend\v19\wlpwgwvFAVdoq2_v9KQU82RHaBBX.woff2
+Content Type: font/woff2
+
+Uri: https://image.tmdb.org/t/p/original/etL5WzGnHBwOA6Z6F2AIayT3Qdm.png
+File Name: C:\Downloaded Web Sites\www.braflix.video\t\p\original\etL5WzGnHBwOA6Z6F2AIayT3Qdm.png
+Content Type: image/png
+
+Uri: https://image.tmdb.org/t/p/original/lLh39Th5plbrQgbQ4zyIULsd0Pp.jpg
+File Name: C:\Downloaded Web Sites\www.braflix.video\t\p\original\lLh39Th5plbrQgbQ4zyIULsd0Pp.jpg
+Content Type: image/jpeg
+
+Uri: https://www.braflix.video/
+File Name: C:\Downloaded Web Sites\www.braflix.video\index.htm
+Content Type: text/html
+
+Uri: https://www.braflix.video/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\www.braflix.video\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://www.braflix.video/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\www.braflix.video\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://www.braflix.video/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\www.braflix.video\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://www.braflix.video/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\www.braflix.video\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://www.braflix.video/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\www.braflix.video\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://www.braflix.video/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\www.braflix.video\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://www.braflix.video/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\www.braflix.video\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://www.braflix.video/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\www.braflix.video\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://www.braflix.video/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\www.braflix.video\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://www.braflix.video/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\www.braflix.video\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://www.braflix.video/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\www.braflix.video\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\www.braflix.video\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://www.braflix.video/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\www.braflix.video\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://www.braflix.video/dmca
+File Name: C:\Downloaded Web Sites\www.braflix.video\dmca
+Content Type: text/html
+
+Uri: https://www.braflix.video/favicon.ico
+File Name: C:\Downloaded Web Sites\www.braflix.video\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://www.braflix.video/logo.png
+File Name: C:\Downloaded Web Sites\www.braflix.video\logo.png
+Content Type: image/png
+
+Uri: https://www.braflix.video/manifest.json
+File Name: C:\Downloaded Web Sites\www.braflix.video\manifest.json
+Content Type: application/json
+
+Uri: https://www.braflix.video/movie/1011985
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\1011985.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/1015634
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\1015634-1.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/1015634?play=true
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\1015634.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/1057001
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\1057001.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/1087388
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\1087388-1.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/1087388?play=true
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\1087388.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/1093995
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\1093995.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/1094844
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\1094844.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/1096197
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\1096197.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/1111873
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\1111873-1.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/1111873?play=true
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\1111873.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/1147400
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\1147400.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/119450
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\119450.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/1219685
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\1219685.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/639720
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\639720-1.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/639720?play=true
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\639720.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/653346
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\653346-1.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/653346?play=true
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\653346.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/693134
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\693134-1.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/693134?play=true
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\693134.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/7451
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\7451.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/748783
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\748783-1.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/748783?play=true
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\748783.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/786892
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\786892-1.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/786892?play=true
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\786892.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/799583
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\799583-1.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/799583?play=true
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\799583.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/823464
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\823464-1.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/823464?play=true
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\823464.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/843527
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\843527.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/872585
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\872585.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/920342
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\920342.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/934632
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\934632.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/940721
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\940721-1.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/940721?play=true
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\940721.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/967847
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\967847-1.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/movie/967847?play=true
+File Name: C:\Downloaded Web Sites\www.braflix.video\movie\967847.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/search
+File Name: C:\Downloaded Web Sites\www.braflix.video\search
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/113988
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\113988.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/138502
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\138502-1.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/138502?play=true
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\138502.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/1424
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\1424.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/1425
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\1425.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/196322
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\196322-1.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/196322?play=true
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\196322.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/209173
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\209173-1.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/209173?play=true
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\209173.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/236617
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\236617-1.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/236617?play=true
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\236617.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/239770
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\239770-1.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/239770?play=true
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\239770.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/250670
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\250670-1.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/250670?play=true
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\250670.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/3796
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\3796.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/38472
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\38472.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/4194
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\4194.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/57243
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\57243-1.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/57243?play=true
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\57243.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/61889
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\61889.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/63174
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\63174.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/65494
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\65494.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/66732
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\66732.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/67026
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\67026.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/67178
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\67178.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/69740
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\69740.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/70573
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\70573.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/75006
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\75006.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/77169
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\77169.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/78191
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\78191.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/85937
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\85937-1.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/85937?play=true
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\85937.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/86831
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\86831.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/87247
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\87247.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/tv/91239
+File Name: C:\Downloaded Web Sites\www.braflix.video\tv\91239.html
+Content Type: text/html
+
+Uri: https://www.braflix.video/_next/static/chunks/1168-0828f2ccdf30af8f.js
+File Name: C:\Downloaded Web Sites\www.braflix.video\_next\static\chunks\1168-0828f2ccdf30af8f.js
+Content Type: application/javascript
+
+Uri: https://www.braflix.video/_next/static/chunks/1664-1afe3397652d55b5.js
+File Name: C:\Downloaded Web Sites\www.braflix.video\_next\static\chunks\1664-1afe3397652d55b5.js
+Content Type: application/javascript
+
+Uri: https://www.braflix.video/_next/static/chunks/1876-aa147fa519f7643e.js
+File Name: C:\Downloaded Web Sites\www.braflix.video\_next\static\chunks\1876-aa147fa519f7643e.js
+Content Type: application/javascript
+
+Uri: https://www.braflix.video/_next/static/chunks/2227-fdf8d004df25e83d.js
+File Name: C:\Downloaded Web Sites\www.braflix.video\_next\static\chunks\2227-fdf8d004df25e83d.js
+Content Type: application/javascript
+
+Uri: https://www.braflix.video/_next/static/chunks/3673-d8cd6a11264eaa11.js
+File Name: C:\Downloaded Web Sites\www.braflix.video\_next\static\chunks\3673-d8cd6a11264eaa11.js
+Content Type: application/javascript
+
+Uri: https://www.braflix.video/_next/static/chunks/490-f33c5909db161c5b.js
+File Name: C:\Downloaded Web Sites\www.braflix.video\_next\static\chunks\490-f33c5909db161c5b.js
+Content Type: application/javascript
+
+Uri: https://www.braflix.video/_next/static/chunks/5518-63a90f553ebc45f9.js
+File Name: C:\Downloaded Web Sites\www.braflix.video\_next\static\chunks\5518-63a90f553ebc45f9.js
+Content Type: application/javascript
+
+Uri: https://www.braflix.video/_next/static/chunks/5640-56d81000ee60b1d2.js
+File Name: C:\Downloaded Web Sites\www.braflix.video\_next\static\chunks\5640-56d81000ee60b1d2.js
+Content Type: application/javascript
+
+Uri: https://www.braflix.video/_next/static/chunks/6970-ed3b58089a9e251c.js
+File Name: C:\Downloaded Web Sites\www.braflix.video\_next\static\chunks\6970-ed3b58089a9e251c.js
+Content Type: application/javascript
+
+Uri: https://www.braflix.video/_next/static/chunks/719-55970f9400005160.js
+File Name: C:\Downloaded Web Sites\www.braflix.video\_next\static\chunks\719-55970f9400005160.js
+Content Type: application/javascript
+
+Uri: https://www.braflix.video/_next/static/chunks/771-43e600bc65a42753.js
+File Name: C:\Downloaded Web Sites\www.braflix.video\_next\static\chunks\771-43e600bc65a42753.js
+Content Type: application/javascript
+
+Uri: https://www.braflix.video/_next/static/chunks/7715-b1544b548de55853.js
+File Name: C:\Downloaded Web Sites\www.braflix.video\_next\static\chunks\7715-b1544b548de55853.js
+Content Type: application/javascript
+
+Uri: https://www.braflix.video/_next/static/chunks/8183.03833c324cd18234.js
+File Name: C:\Downloaded Web Sites\www.braflix.video\_next\static\chunks\8183.03833c324cd18234.js
+Content Type: application/javascript
+
+Uri: https://www.braflix.video/_next/static/chunks/8458-4ce3db2ae0dad631.js
+File Name: C:\Downloaded Web Sites\www.braflix.video\_next\static\chunks\8458-4ce3db2ae0dad631.js
+Content Type: application/javascript
+
+Uri: https://www.braflix.video/_next/static/chunks/9348-8d569fbf7b797b61.js
+File Name: C:\Downloaded Web Sites\www.braflix.video\_next\static\chunks\9348-8d569fbf7b797b61.js
+Content Type: application/javascript
+
+Uri: https://www.braflix.video/_next/static/chunks/946-f98cf6cb305f216f.js
+File Name: C:\Downloaded Web Sites\www.braflix.video\_next\static\chunks\946-f98cf6cb305f216f.js
+Content Type: application/javascript
+
+Uri: https://www.braflix.video/_next/static/chunks/framework-3236775a9ca336a2.js
+File Name: C:\Downloaded Web Sites\www.braflix.video\_next\static\chunks\framework-3236775a9ca336a2.js
+Content Type: application/javascript
+
+Uri: https://www.braflix.video/_next/static/chunks/main-57b13a07212e9e95.js
+File Name: C:\Downloaded Web Sites\www.braflix.video\_next\static\chunks\main-57b13a07212e9e95.js
+Content Type: application/javascript
+
+Uri: https://www.braflix.video/_next/static/chunks/pages/dmca-ea92e339a1e94ec4.js
+File Name: C:\Downloaded Web Sites\www.braflix.video\_next\static\chunks\pages\dmca-ea92e339a1e94ec4.js
+Content Type: application/javascript
+
+Uri: https://www.braflix.video/_next/static/chunks/pages/index-ca05b558a0e507eb.js
+File Name: C:\Downloaded Web Sites\www.braflix.video\_next\static\chunks\pages\index-ca05b558a0e507eb.js
+Content Type: application/javascript
+
+Uri: https://www.braflix.video/_next/static/chunks/pages/movie/[...params]-86678e30d56b2e70.js
+File Name: C:\Downloaded Web Sites\www.braflix.video\_next\static\chunks\pages\movie\[...params]-86678e30d56b2e70.js
+Content Type: application/javascript
+
+Uri: https://www.braflix.video/_next/static/chunks/pages/search-b57b36880ceebd18.js
+File Name: C:\Downloaded Web Sites\www.braflix.video\_next\static\chunks\pages\search-b57b36880ceebd18.js
+Content Type: application/javascript
+
+Uri: https://www.braflix.video/_next/static/chunks/pages/tv/[...params]-53f72951e16304dc.js
+File Name: C:\Downloaded Web Sites\www.braflix.video\_next\static\chunks\pages\tv\[...params]-53f72951e16304dc.js
+Content Type: application/javascript
+
+Uri: https://www.braflix.video/_next/static/chunks/pages/_app-0ca959f3e14504ec.js
+File Name: C:\Downloaded Web Sites\www.braflix.video\_next\static\chunks\pages\_app-0ca959f3e14504ec.js
+Content Type: application/javascript
+
+Uri: https://www.braflix.video/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Downloaded Web Sites\www.braflix.video\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://www.braflix.video/_next/static/chunks/webpack-8651ffa69d2d5e2f.js
+File Name: C:\Downloaded Web Sites\www.braflix.video\_next\static\chunks\webpack-8651ffa69d2d5e2f.js
+Content Type: application/javascript
+
+Uri: https://www.braflix.video/_next/static/css/547ff7c8c4535078.css
+File Name: C:\Downloaded Web Sites\www.braflix.video\_next\static\css\547ff7c8c4535078.css
+Content Type: text/css
+
+Uri: https://www.braflix.video/_next/static/css/c6225fb8fee84285.css
+File Name: C:\Downloaded Web Sites\www.braflix.video\_next\static\css\c6225fb8fee84285.css
+Content Type: text/css
+
+Uri: https://www.braflix.video/_next/static/css/e666f0f35e61dc95.css
+File Name: C:\Downloaded Web Sites\www.braflix.video\_next\static\css\e666f0f35e61dc95.css
+Content Type: text/css
+
+Uri: https://www.braflix.video/_next/static/zxl76NasD9DI8fT8QHJY5/_buildManifest.js
+File Name: C:\Downloaded Web Sites\www.braflix.video\_next\static\zxl76NasD9DI8fT8QHJY5\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://www.braflix.video/_next/static/zxl76NasD9DI8fT8QHJY5/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\www.braflix.video\_next\static\zxl76NasD9DI8fT8QHJY5\_ssgManifest.js
+Content Type: application/javascript
+
